@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Inter', sans-serif;
+  background-color: #0A2E36;
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+}
